@@ -1,5 +1,5 @@
 # Ticket
 node_modules/
-/package-lock.json/
-/TZ.txt/
+.package-lock.json/
+.TZ.txt/
 
